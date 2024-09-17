@@ -10,18 +10,17 @@ def q1():
   #Remember your code must be indented once
   print ("* * * * *\n * * * * *\n* * * * *\n * * * * *\n* * * * *\n * * * * *")
   
-  print ("* * * * *n\*       *\n*       *\n*       *\n*       *\n* * * * * ")
+  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * * ")
 
   print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 
 def q2():
   #Write Assignment code here
-    print("Hello \nWorld")
+  print("Hello \nWorld")
   
 def q3():
   #Write Assignment code here
   print('"Man"\n"Board"\n"Man Overboard"')
-
 
 #Do not alter anything after this line
 q1()
