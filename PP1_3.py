@@ -8,12 +8,12 @@
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once
-  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * * \n\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
+  print (" * * * * *\n* * * * *\n * * * * *\n* * * * *\n * * * * *\n* * * * *\n\n* * * *\n*     *\n*     *\n*     *\n* * * * \n\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
   
 
 def q2():
   #Write Assignment code here
-  print('"Hello \nWorld"\n')
+  print('"Hello "\n"World"\n')
   
 def q3():
   #Write Assignment code here
