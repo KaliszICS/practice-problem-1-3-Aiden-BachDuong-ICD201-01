@@ -12,7 +12,7 @@ def q1():
   
 def q2():
   #Write Assignment code here
-  print('"\nHello ')
+  print('\n"Hello ')
   print('World"\n')
   
 def q3():
